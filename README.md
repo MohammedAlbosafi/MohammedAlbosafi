@@ -47,6 +47,4 @@
 
 **Learn continuously. Build deliberately. Ship responsibly.**
 
-![Profile Views](https://komarev.com/ghpvc/?username=MohammedAlbosafi&color=blue&style=flat-square)
-
 </div>
