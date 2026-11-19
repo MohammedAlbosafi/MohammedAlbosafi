@@ -41,16 +41,6 @@
 | AI Security | Adversarial Testing |
 | MLOps | Deployment & Automation |
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohammedAlbosafi&show_icons=true&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=MohammedAlbosafi&theme=tokyonight&hide_border=true)
-
-</div>
-
 ---
 
 <div align="center">
