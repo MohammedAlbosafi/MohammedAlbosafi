@@ -1,16 +1,62 @@
-## Hi there 👋
+ <div align="center">
 
-<!--
-**MohammedAlbosafi/MohammedAlbosafi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Mohammed Alaswad
 
-Here are some ideas to get you started:
+### AI Engineering Student | Building Intelligent Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![AI Engineering](https://img.shields.io/badge/AI_ENGINEERING-0D1117?style=for-the-badge&logo=python&logoColor=58C9F3)
+![Machine Learning](https://img.shields.io/badge/MACHINE_LEARNING-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=58C9F3)
+![LLMs](https://img.shields.io/badge/LLMs_%26_AGENTS-0D1117?style=for-the-badge&logo=huggingface&logoColor=58C9F3)
+
+*From data to models. From models to real systems.*
+
+</div>
+
+---
+
+## 🧠 About Me
+
+- 🎓 AI Engineering Student
+- 🔬 Interested in Machine Learning and Deep Learning
+- 🤖 Exploring LLMs, AI Agents and RAG
+- 🛡️ Interested in AI Security
+- 🚀 Building practical AI engineering projects
+
+## ⚡ Technical Focus
+
+<div align="center">
+
+![Python](https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,git,github,docker,fastapi,postgres,vscode&perline=5)
+
+</div>
+
+## 🔭 Development Roadmap
+
+| Domain | Focus |
+|---|---|
+| Machine Learning | Algorithms & Model Evaluation |
+| Deep Learning | Neural Networks & Computer Vision |
+| Generative AI | LLMs & RAG Systems |
+| AI Agents | Intelligent Automation |
+| AI Security | Adversarial Testing |
+| MLOps | Deployment & Automation |
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohammedAlbosafi&show_icons=true&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=MohammedAlbosafi&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+**Learn continuously. Build deliberately. Ship responsibly.**
+
+![Profile Views](https://komarev.com/ghpvc/?username=MohammedAlbosafi&color=blue&style=flat-square)
+
+</div>
